@@ -26,7 +26,7 @@ A professor could set suggested times for students to log in and play in order t
 
 To take it even further a professor could have a moderator role, creating questions in real-time for the students to solve. A seperate professor message feed could be displayed so that his/her messages don't get lost in the regular group chat.
 
-## Leaderboards
+### Leaderboards
 
 The leaderboards will contain statistics from the different types of games played. From discrete mathematics to calculus 4, the leaderboard will keep track of all the different topics and rank each player based on their performances. 
 
@@ -38,17 +38,16 @@ The goals for this milestone were to complete the mockup HTML for the Landing, H
 
 To start, we downloaded [Bowfolios](https://github.com/bowfolios/bowfolios) and added our mockups to the pages folder. We then converted each mockup page to a template which could be used by FlowRouter. Here are some of the mockup pages:
 
-
-Landing Page
+**<p align="center">Landing Page</p>**
 <img class="ui medium left floated image" src="../images/landing-page.png">
 
-Home Page
+**<p align="center">Home Page</p>**
 <img class="ui medium left floated image" src="../images/home-page.png">
 
-Profile Page
+**<p align="center">Profile Page</p>**
 <img class="ui medium left floated image" src="../images/profile-page.png">
 
-Game Modes
+**<p align="center">Game Mode Page</p>**
 <img class="ui medium left floated image" src="../images/game-mode-page.png">
 
 ## Milestone 2
