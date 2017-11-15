@@ -38,17 +38,18 @@ The goals for this milestone were to complete the mockup HTML for the Landing, H
 
 To start, we downloaded [Bowfolios](https://github.com/bowfolios/bowfolios) and added our mockups to the pages folder. We then converted each mockup page to a template which could be used by FlowRouter. Here are some of the mockup pages:
 
-<img class="ui medium left floated image" src="../images/landing-page.png">
+
 Landing Page
+<img class="ui medium left floated image" src="../images/landing-page.png">
 
-<img class="ui medium left floated image" src="../images/home-page.png">
 Home Page
+<img class="ui medium left floated image" src="../images/home-page.png">
 
-<img class="ui medium left floated image" src="../images/profile-page.png">
 Profile Page
+<img class="ui medium left floated image" src="../images/profile-page.png">
 
-<img class="ui medium left floated image" src="../images/game-mode-page.png">
 Game Modes
+<img class="ui medium left floated image" src="../images/game-mode-page.png">
 
 ## Milestone 2
 
