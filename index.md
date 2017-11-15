@@ -1,3 +1,5 @@
+<button name="button" onclick="http://www.google.com">Click me</button>
+
 ## Table of Contents
 
 * [About Math Rush](#about-math-rush)
