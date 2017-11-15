@@ -28,13 +28,16 @@ To take it even further a professor could have a moderator role, creating questi
 
 ## Leaderboards
 
+The leaderboards will contain statistics from the different types of games played. From discrete mathematics to calculus 4, the leaderboard will keep track of all the different topics and rank each player based on their performances. 
+
 ## Milestone 1 <a name="milestone-1"></a>
 
 Milestone 1 started on November 8th, 2017, and ended on November ___, 2017.
 
 The goals for this milestone were to complete the mockup HTML for the Landing, Home, User-Profile, Leaderboard, and Game Types pages. Then, to link these pages together using Meteor FlowRouter. 
 
-To start, we downloaded [Bowfolios](https://github.com/bowfolios/bowfolios) and added our mockups to the pages folder. We then converted each mockup page to a template which could be used by FlowRouter. 
+To start, we downloaded [Bowfolios](https://github.com/bowfolios/bowfolios) and added our mockups to the pages folder. We then converted each mockup page to a template which could be used by FlowRouter. Here are some of the mockup pages:
+<img class="ui medium left floated image" src="../images/landing-page.jpg">
 
 ## Milestone 2
 
