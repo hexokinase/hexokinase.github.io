@@ -41,6 +41,15 @@ To start, we downloaded [Bowfolios](https://github.com/bowfolios/bowfolios) and 
 <img class="ui medium left floated image" src="../images/landing-page.png">
 Landing Page
 
+<img class="ui medium left floated image" src="../images/home-page.png">
+Home Page
+
+<img class="ui medium left floated image" src="../images/profile-page.png">
+Profile Page
+
+<img class="ui medium left floated image" src="../images/game-mode-page.png">
+Game Modes
+
 ## Milestone 2
 
 ## Milestone 3
