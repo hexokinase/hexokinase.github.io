@@ -37,7 +37,7 @@ Milestone 1 started on November 8th, 2017, and ended on November ___, 2017.
 The goals for this milestone were to complete the mockup HTML for the Landing, Home, User-Profile, Leaderboard, and Game Types pages. Then, to link these pages together using Meteor FlowRouter. 
 
 To start, we downloaded [Bowfolios](https://github.com/bowfolios/bowfolios) and added our mockups to the pages folder. We then converted each mockup page to a template which could be used by FlowRouter. Here are some of the mockup pages:
-<img class="ui medium left floated image" src="../images/landing-page.jpg">
+<img class="ui medium left floated image" src="../images/landing-page.png">
 
 ## Milestone 2
 
