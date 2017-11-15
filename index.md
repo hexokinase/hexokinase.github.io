@@ -1,4 +1,4 @@
-<button name="button" onclick="http://www.google.com">Click me</button>
+<button name="button" onclick="https://github.com/hexokinase/math-rush">View on Github</button>
 
 ## Table of Contents
 
