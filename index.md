@@ -1,3 +1,4 @@
+<button name="button" onclick="http://mathrush.meteorapp.com/">View on Application</button>
 <button name="button" onclick="https://github.com/hexokinase/math-rush">View on Github</button>
 
 ## Table of Contents
