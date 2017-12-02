@@ -14,9 +14,9 @@
 
 ## About Math Rush 
 
-## Vision
+## Vision <a name="vision"></a>
 
-Here we outline our future vision for Math Rush.
+To create a fun and exciting way for college students to practice the math subjects they are taking while connecting with other top performers. 
 
 ### Professor-Student Model <a name="professor-student-model"></a>
 
