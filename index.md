@@ -60,10 +60,14 @@ Milestone 2 started on November 23rd, 2017 and ended on December 13, 2017.
 
 The goal for this milestone was to update the mockup pages to have better graphic design and include functionality. A navigation bar was added to all the pages to allow the user to traverse through the application. The landing page received a fresh new upgrade, and our first game was introduced to the application. Here are some of the new changes:
 
-#### Updated Landing Page and Navigation Bar
+#### Updated Landing Page
 
 <img class="ui medium left floated image" src="../images/new-landing-page.png">
 We remodled the landing page to a more sleek design. Our first approach to the application was to create a fun and exciting enviornment to learn and practice math. However, this application is focused on college students and teachers at the University of Hawaii, which lead to a more professional look.
+
+#### Game Page and Navigation Bar
+<img class="ui medium left floated image" src="../images/game-page.png">
+We added our first math game. This game shows a few math problems and allows the user to input their answer and check if it is correct. Although this game is still primitive, we plan on expanding our concept to several, more complicated games in the future.
 
 A navigation bar was also added to all the pages, allowing the user to move through the application as they please.
 
@@ -75,4 +79,5 @@ Although there are tremendous strides to the completition of this application, t
 - **Teacher Profile:** As a platform for students to learn math, it would be great to get teachers involved. Allowing teachers to upload problems, subjects, and other study material to the games would create a more focused, class-based application for the students.
 - **Study Connections:** We would also like to implement a way for users, students and teachers alike, to connect with each other. Whether that's via instant messaging or office hours, it would be useful for students to connect with those who are doing good in a certain material. By simply checking who is on the top of the leaderboards for a certain subject, any user can connect with them to create study sessions or tutoring oppprtunities. 
 
+In the end, we hope that this program will be a valuable asset to the math community of the University of Hawaii at Manoa. While Math Rush is still a growing application, we think that it will become an incredible learning platform in the future. Stay tuned!
 
