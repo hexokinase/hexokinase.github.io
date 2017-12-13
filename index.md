@@ -8,9 +8,9 @@
 * [Vision](#vision)
   * [Professor-Student Model](#professor-students-model)
   * [Real Time Multiplayer Games](#real-time-multiplayer-games)
-  * [Leaderboards]()
-  * 
+  * [Leaderboards](#leaderboard)
 * [Milestone 1](#milestone-1)
+* [Milestone 2](#milestone-2)
 
 ## About Math Rush 
 
@@ -30,13 +30,13 @@ A professor could set suggested times for students to log in and play in order t
 
 To take it even further a professor could have a moderator role, creating questions in real-time for the students to solve. A seperate professor message feed could be displayed so that his/her messages don't get lost in the regular group chat.
 
-### Leaderboards
+### Leaderboards <a name="leaderboard"></a>
 
 The leaderboards will contain statistics from the different types of games played. From discrete mathematics to calculus 4, the leaderboard will keep track of all the different topics and rank each player based on their performances. 
 
 ## Milestone 1 <a name="milestone-1"></a>
 
-Milestone 1 started on November 8th, 2017, and ended on November ___, 2017.
+Milestone 1 started on November 8th, 2017, and ended on November 22th, 2017.
 
 The goals for this milestone were to complete the mockup HTML for the Landing, Home, User-Profile, Leaderboard, and Game Types pages. Then, to link these pages together using Meteor FlowRouter. 
 
@@ -54,8 +54,25 @@ To start, we downloaded [Bowfolios](https://github.com/bowfolios/bowfolios) and 
 #### Game Mode Page
 <img class="ui medium left floated image" src="../images/game-mode-page.png">
 
-## Milestone 2
+## Milestone 2 <a name="milestone-2"></a>
 
-## Milestone 3
+Milestone 2 started on November 23rd, 2017 and ended on December 13, 2017.
+
+The goal for this milestone was to update the mockup pages to have better graphic design and include functionality. A navigation bar was added to all the pages to allow the user to traverse through the application. The landing page received a fresh new upgrade, and our first game was introduced to the application. Here are some of the new changes:
+
+#### Updated Landing Page and Navigation Bar
+
+<img class="ui medium left floated image" src="../images/new-landing-page.png">
+We remodled the landing page to a more sleek design. Our first approach to the application was to create a fun and exciting enviornment to learn and practice math. However, this application is focused on college students and teachers at the University of Hawaii, which lead to a more professional look.
+
+A navigation bar was also added to all the pages, allowing the user to move through the application as they please.
+
+## Future Vision
+
+Although there are tremendous strides to the completition of this application, there are still numerous functionality that we would like to impliment. Here is our vision for Math Rush:
+
+- **Real-time Multiplayer Math Games:** One game we had in mind is a live, multiplayer math game where multiple users will type in an answer to a math problem shown on screen. The first user to enter the correct answer would get points. The players would race to get a certain amount of points to win.
+- **Teacher Profile:** As a platform for students to learn math, it would be great to get teachers involved. Allowing teachers to upload problems, subjects, and other study material to the games would create a more focused, class-based application for the students.
+- **Study Connections:** We would also like to implement a way for users, students and teachers alike, to connect with each other. Whether thats via instant messaging or office hours, it would be useful for students to connect with those who are doing good in a certain material. By simply checking who is in the top of the leaderboards for a certain subject, any user can connect with them to create study sessions or tutoring oppprtunities. 
 
 
