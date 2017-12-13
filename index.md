@@ -11,6 +11,7 @@
   * [Leaderboards](#leaderboard)
 * [Milestone 1](#milestone-1)
 * [Milestone 2](#milestone-2)
+* [Future Vision](#future-vision)
 
 ## About Math Rush 
 
@@ -71,7 +72,7 @@ We added our first math game. This game shows a few math problems and allows the
 
 A navigation bar was also added to all the pages, allowing the user to move through the application as they please.
 
-## Future Vision
+## Future Vision <a name="future-vision"></a>
 
 Although there are tremendous strides to the completition of this application, there are still numerous functionalities that we would like to impliment. Here is our vision for Math Rush:
 
