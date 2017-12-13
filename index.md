@@ -69,10 +69,10 @@ A navigation bar was also added to all the pages, allowing the user to move thro
 
 ## Future Vision
 
-Although there are tremendous strides to the completition of this application, there are still numerous functionality that we would like to impliment. Here is our vision for Math Rush:
+Although there are tremendous strides to the completition of this application, there are still numerous functionalities that we would like to impliment. Here is our vision for Math Rush:
 
 - **Real-time Multiplayer Math Games:** One game we had in mind is a live, multiplayer math game where multiple users will type in an answer to a math problem shown on screen. The first user to enter the correct answer would get points. The players would race to get a certain amount of points to win.
 - **Teacher Profile:** As a platform for students to learn math, it would be great to get teachers involved. Allowing teachers to upload problems, subjects, and other study material to the games would create a more focused, class-based application for the students.
-- **Study Connections:** We would also like to implement a way for users, students and teachers alike, to connect with each other. Whether thats via instant messaging or office hours, it would be useful for students to connect with those who are doing good in a certain material. By simply checking who is in the top of the leaderboards for a certain subject, any user can connect with them to create study sessions or tutoring oppprtunities. 
+- **Study Connections:** We would also like to implement a way for users, students and teachers alike, to connect with each other. Whether that's via instant messaging or office hours, it would be useful for students to connect with those who are doing good in a certain material. By simply checking who is on the top of the leaderboards for a certain subject, any user can connect with them to create study sessions or tutoring oppprtunities. 
 
 
