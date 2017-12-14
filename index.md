@@ -76,18 +76,20 @@ A navigation bar was also added to all the pages, allowing the user to move thro
 ## Community Feedback <a name="feedback"></a>
 Showing our website and concept to University of Hawaii at Manoa community members, we received valuable information and comments. Here are some things they had to say, all comments will be used to make the website better:
 
-- **"The Pages are aesthetically pleasing to look at and don't strain my eyes like many other websites."**
-- **"Definitely an interesting concept, would definitely benefit the math department, could be used as extra credit or even homework assignments."**
-- **"This concept could be used to gamify more than just math assignments, but could be used in other disciplines, but this is a good start."**
-- **"Could be used in ICS 111 and 211 to drill in fundamental concepts into new programmers heads."**
-- **"The game is really awesome, especially if you could translate it to other, more difficult classes, I could use it as a quick everyday brain exercise."**
+- **Pros**
+    - "The Pages are aesthetically pleasing to look at and don't strain my eyes like many other websites."
+    - "Definitely an interesting concept, would definitely benefit the math department, could be used as extra credit or even homework assignments."
+    - "This concept could be used to gamify more than just math assignments, but could be used in other disciplines, but this is a good start."
+    - "Could be used in ICS 111 and 211 to drill in fundamental concepts into new programmers heads."
+    - "The game is really awesome, especially if you could translate it to other, more difficult classes, I could use it as a quick everyday brain exercise."
 
+- **Improvements**
+    - "Would be nice if you had an about me page, that talks about the background and purpose of the app, as well as the creators."
+    - "The leaderboard page is nice, but seems very plain, adding pictures or statistics would definitely spice it up."
+    - "The minimalistic style is pretty to look at times, but sometimes seems lackluster and underwhelming. Needs more consistency in design and color throughout pages."
+    - "The buttons should all be animated like the ones on the home page, the animations make it ten times cooler."
+    - "The profile page would be nicer if it was personalized for the user, and the login/logout button would be nicer on the header."
 
-- **"Would be nice if you had an about me page, that talks about the background and purpose of the app, as well as the creators."**
-- **"The leaderboard page is nice, but seems very plain, adding pictures or statistics would definitely spice it up."**
-- **"The minimalistic style is pretty to look at times, but sometimes seems lackluster and underwhelming. Needs more consistency in design and color throughout pages."**
-- **"The buttons should all be animated like the ones on the home page, the animations make it ten times cooler."**
-- **"The profile page would be nicer if it was personalized for the user, and the login/logout button would be nicer on the header."**
 
 ## Future Vision <a name="future-vision"></a>
 
