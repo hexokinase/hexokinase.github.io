@@ -40,9 +40,9 @@ The leaderboards will contain statistics from the different types of games playe
 
 ## Installation <a name="installation"></a>
 
-1. [install Meteor](https://www.meteor.com/install).
+1. [Install Meteor](https://www.meteor.com/install).
 
-2. [download a copy of Math Rush](https://github.com/hexokinase/math-rush).
+2. [Download a copy of Math Rush](https://github.com/hexokinase/math-rush).
 
 3. cd into the app directory and install the libraries with
 
