@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+# Installation
 
-You can use the [editor on GitHub](https://github.com/manoamath/manoamath.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+First things first, [install Meteor](https://www.meteor.com/install).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Next, [download a copy of Math ](https://github.com/hexokinase/math-rush/archive/master.zip), or clone it using git.
 
-### Markdown
+Third, extract contents and cd into the app/ directory and install libraries with:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+$ meteor npm install
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Fourth, run the system with:
 
-### Jekyll Themes
+```
+$ meteor npm run start
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/manoamath/manoamath.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The application will appear at [http://localhost:3000](http://locahost:3000). Login and try it out!
 
-### Support or Contact
+The app/ directory has this top-level structure:
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+```
+client/
+  lib/           # holds Semantic UI files.
+  head.html      # the <head>
+  main.js        # import all the client-side html and js files.
+
+imports/
+  api/           # Define collection processing code (client + server side)
+    addsubtract/
+    base/
+    interest/
+    profile/
+  startup/       # Define code to run when system starts up (client-only, server-only)
+    client/        
+    server/        
+  ui/
+    components/  # templates that appear inside a page template.
+    layouts/     # Layouts contain common elements to all pages (i.e. menubar and footer)
+    pages/       # Pages are navigated to by FlowRouter routes.
+    stylesheets/ # CSS customizations, if any.
+
+node_modules/    # managed by Meteor
+
+private/
+  database/      # holds the JSON file used to initialize the database on startup.
+
+public/          
+  images/        # holds static images for landing page and predefined sample users.
+
+server/
+   main.js       # import all the server-side js files.
+```
