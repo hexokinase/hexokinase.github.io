@@ -10,6 +10,7 @@
   * [Real Time Multiplayer Games](#real-time-multiplayer-games)
   * [Leaderboards](#leaderboard)
 * [Installation](#installation)
+* [User Guide](#user-guide)
 * [Milestone 1](#milestone-1)
 * [Milestone 2](#milestone-2)
 * [Community Feedback](#feedback)
@@ -34,9 +35,6 @@ A professor could set suggested times for students to log in and play in order t
 To take it even further a professor could have a moderator role, creating questions in real-time for the students to solve. A seperate professor message feed could be displayed so that his/her messages don't get lost in the regular group chat.
 
 ### Leaderboards <a name="leaderboard"></a>
-<img class="ui medium left floated image" src="../images/leaderboard.png">
-
-Once in the leaderboard page, you can see who scored the highest in each category of the game. Once finished, feel free to navigate through the previous pages using the navigation bar on top.
 
 The leaderboards will contain statistics from the different types of games played. From discrete mathematics to calculus 4, the leaderboard will keep track of all the different topics and rank each player based on their performances.
 
@@ -60,6 +58,26 @@ $ meteor npm run start
 
 Make the sure application appears at [http://localhost:3000](http://localhost3000), and login with your UH account to start!
 
+## User Guide <a name="user-guide"></a>
+
+<img class="ui medium left floated image" src="../images/finished-landing-page.png">
+At the landing page, click the login button and enter your UH account credentials. Upon successful login, the application should redirect you to the home page.
+
+<img class="ui medium left floated image" src="../images/finished-home-page.png">
+From the home page, you have the option to start a random game, go to the game types page, view the leaderboards, or view your profile. This can be done with either the 4 buttons on the page or the options on the navigation bar.
+
+<img class="ui medium left floated image" src="../images/leaderboard.png">
+Upon entering the profile page, it will provide information on the user such as their email address, active subjects they are learning, and subjects they already finished.
+
+<img class="ui medium left floated image" src="../images/finished-game-type-page.png">
+The game type page will allow the user to choose between several math subjects. Using the categories listed, you can either choose to play the game or view the leaderboard for that subject.
+
+<img class="ui medium left floated image" src="../images/game-page.png">
+The game page holds the game that the user can play. Once completed, the application will direct the user to the leaderboard page.
+
+<img class="ui medium left floated image" src="../images/leaderboard.png">
+Once in the leaderboard page, you can see who scored the highest in each category of the game. Once finished, feel free to navigate through the previous pages using the navigation bar on top. 
+
 ## Milestone 1 <a name="milestone-1"></a>
 
 Milestone 1 started on November 8th, 2017, and ended on November 22th, 2017.
@@ -71,22 +89,14 @@ To start, we downloaded [Bowfolios](https://github.com/bowfolios/bowfolios) and 
 #### Landing Page
 <img class="ui medium left floated image" src="../images/landing-page.png">
 
-At the landing page, click the login button and enter your UH account credentials. Upon successful login, the application should redirect you to the home page.
-
 #### Home Page
 <img class="ui medium left floated image" src="../images/home-page.png">
-
-From the home page, you have the option to start a random game, go to the game types page, view the leaderboards, or view your profile. This can be done with either the 4 buttons on the page or the options on the navigation bar.
 
 #### Profile Page
 <img class="ui medium left floated image" src="../images/profile-page.png">
 
-Upon entering the profile page, it will provide information on the user such as their email address, active subjects they are learning, and subjects they already finished.
-
 #### Game Type Page
 <img class="ui medium left floated image" src="../images/game-mode-page.png">
-
-The game type page will allow the user to choose between several math subjects. Using the categories listed, you can either choose to play the game or view the leaderboard for that subject.
 
 ## Milestone 2 <a name="milestone-2"></a>
 
@@ -101,8 +111,6 @@ We remodled the landing page to a more sleek design. Our first approach to the a
 
 #### Game Page and Navigation Bar
 <img class="ui medium left floated image" src="../images/game-page.png">
-The game page holds the game that the user can play. Once completed, the application will direct the user to the leaderboard page.
-
 We added our first math game. This game shows a few math problems and allows the user to input their answer and check if it is correct. Although this game is still primitive, we plan on expanding our concept to several, more complicated games in the future.
 
 A navigation bar was also added to all the pages, allowing the user to move through the application as they please.
