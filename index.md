@@ -107,7 +107,7 @@ The goal for this milestone was to update the mockup pages to have better graphi
 #### Updated Landing Page
 
 <img class="ui medium left floated image" src="../images/new-landing-page.png">
-We remodled the landing page to a more sleek design. Our first approach to the application was to create a fun and exciting enviornment to learn and practice math. However, this application is focused on college students and teachers at the University of Hawaii, which lead to a more professional look.
+We remodeled the landing page to a more sleek design. Our first approach to the application was to create a fun and exciting enviornment to learn and practice math. However, this application is focused on college students and teachers at the University of Hawaii, which lead to a more professional look.
 
 #### Game Page and Navigation Bar
 <img class="ui medium left floated image" src="../images/game-page.png">
