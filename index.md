@@ -6,9 +6,10 @@
 
 * [About Math Rush](#about-math-rush)
 * [Vision](#vision)
-  * [Professor-Student Model](#professor-students-model)
+  * [Professor-Student Model](#professor-student-model)
   * [Real Time Multiplayer Games](#real-time-multiplayer-games)
   * [Leaderboards](#leaderboard)
+* [Installation](#installation)
 * [Milestone 1](#milestone-1)
 * [Milestone 2](#milestone-2)
 * [Community Feedback](#feedback)
@@ -35,6 +36,26 @@ To take it even further a professor could have a moderator role, creating questi
 ### Leaderboards <a name="leaderboard"></a>
 
 The leaderboards will contain statistics from the different types of games played. From discrete mathematics to calculus 4, the leaderboard will keep track of all the different topics and rank each player based on their performances.
+
+## Installation <a name="installation"></a>
+
+1. [install Meteor](https://www.meteor.com/install).
+
+2. [download a copy of Math Rush](https://github.com/hexokinase/math-rush).
+
+3. cd into the app directory and install the libraries with
+
+```
+$ meteor npm install
+```
+
+4. run the system with:
+
+```
+$ meteor npm run start
+```
+
+5. Make the sure application appears at [http://localhost:3000](http://localhost3000).
 
 ## Milestone 1 <a name="milestone-1"></a>
 
