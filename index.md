@@ -49,13 +49,13 @@ The leaderboards will contain statistics from the different types of games playe
 $ meteor npm install
 ```
 
-4. run the system with:
+and run the system with:
 
 ```
 $ meteor npm run start
 ```
 
-5. Make the sure application appears at [http://localhost:3000](http://localhost3000).
+Make the sure application appears at [http://localhost:3000](http://localhost3000), and login with your UH account to start!
 
 ## Milestone 1 <a name="milestone-1"></a>
 
